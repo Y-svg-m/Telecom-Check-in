@@ -1,0 +1,15 @@
+{
+  "name": "china-telecom-checkin",
+  "version": "1.0.0",
+  "description": "China Telecom daily check-in script",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "got": "^11.8.3",
+    "xmldom": "^0.6.0",
+    "crypto-js": "^4.1.1",
+    "node-rsa": "^1.1.1"
+  }
+}
